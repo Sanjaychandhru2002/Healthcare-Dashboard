@@ -45,10 +45,6 @@ The dashboard provides a comprehensive summary of healthcare waitlist data, offe
 4. Push to the branch: `git push origin feature/your-feature-name`
 5. Open a pull request.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Contact
 
 For questions or feedback, please contact [sanjaychandhru374@gmail.com].
