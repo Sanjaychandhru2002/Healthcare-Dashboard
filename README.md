@@ -12,12 +12,6 @@ The dashboard provides a comprehensive summary of healthcare waitlist data, offe
 - **Specialty-wise Wait Times**: Highest in ophthalmology and pediatric orthopedics.
 - **Monthly Trends**: Stable day case and inpatient numbers, rising trend for outpatient cases.
 
-## Getting Started
-
-### Prerequisites
-
-- [List any software or tools required to use the dashboard]
-
 ### Installation
 
 1. Clone the repository:
@@ -33,9 +27,6 @@ The dashboard provides a comprehensive summary of healthcare waitlist data, offe
 2. Explore the various sections to gain insights into healthcare waitlist data.
 3. Utilize the provided visualizations to make informed decisions and identify areas for improvement.
 
-## Demo
-
-[Include screenshots or a link to a live demo if available]
 
 ## Contributing
 
